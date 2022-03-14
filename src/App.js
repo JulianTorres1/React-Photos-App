@@ -7,7 +7,7 @@ function App() {
   return (
     <box>
         <Navbar/>
-
+        <Profile/>
     </box>
   );
 }

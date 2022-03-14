@@ -25,8 +25,9 @@ import {
 import {LoginButton} from '../login/login';
 import {LogoutButton} from '../login/logout';
 
+
 export default function WithSubnavigation() {
-    const { isOpen, onToggle } = useDisclosure();
+    const { isOpen, onzToggle } = useDisclosure();
 
     return (
         <Box>
