@@ -50,6 +50,7 @@ export default function SocialProfileWithImage() {
                             alt={user.name}
                             css={{
                                 border: '2px solid white',
+                                
                             }}
                         />
                     </Flex>
